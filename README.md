@@ -7,11 +7,11 @@
 ![alt text](./image/image2.png)
 对比发现，bug发生时Menu组件的类名多了几个。
 
-当切换vue版本为3.3.10时，bug消失.
+当切换vue版本为3.4.15时，bug消失.
 ```
-pnpm update vue@3.3.10
+pnpm update vue@3.4.15
 ```
-当切换vue版本切换回3.4.15时，bug消失
+当切换vue版本切换回3.4.18时，bug消失
 ```
 pnpm update vue@3.4.18
 ```
